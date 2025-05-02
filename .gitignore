@@ -33,7 +33,7 @@ Thumbs.db
 .collab/
 
 # Git LFS
-.gitattributes
+#.gitattributes
 
 # Rider IDE
 *.sln.iml
